@@ -1,0 +1,18 @@
+[{
+	
+	"alert":"FIRE",
+	"latitude":"100",
+	"longitude":"100"
+},
+{
+	
+	"alert":"Flood",
+	"latitude":"100",
+	"longitude":"100"
+},
+{
+	
+	"alert":"Bomb",
+	"latitude":"100",
+	"longitude":"100"
+}]
